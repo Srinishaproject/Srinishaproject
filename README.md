@@ -13,20 +13,16 @@ I'm a passionate software developer who enjoys learning new technologies and bui
 
 ## 🛠️ Skills
 
-* **Programming Languages:** Java, Python*
-* **Web Technologies:** HTML, CSS, JavaScript*
-* **Frameworks:** React*
-* **Database:** MySQL, MongoDB*
-* **Tools:** Git, GitHub, VS Code*
-  
-## 🎯 Goals
-
-I'm focused on improving my development skills, contributing to open-source projects, and building applications that make a positive impact.
+* **Programming Languages:** Java, Python
+* **Web Technologies:** HTML, CSS, JavaScript
+* **Frameworks:** React
+* **Database:** MySQL, MongoDB
+* **Tools:** Git, GitHub, VS Code
 
 ## 📫 Connect With Me
 
 * GitHub: https://github.com/Srinishaproject
   
 
-⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
+⭐ Thanks for visiting my profile! 
 
